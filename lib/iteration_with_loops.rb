@@ -7,7 +7,7 @@ while row_index < src.count do
   while element_index < src[row_index].count do
     
     total += src[row_index][element_index]
-  end
+  
     element_index += 1
   end
   row_index += 1
