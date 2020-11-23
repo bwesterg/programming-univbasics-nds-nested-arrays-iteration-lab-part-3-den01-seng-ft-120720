@@ -6,8 +6,7 @@ while row_index < src.count do
   element_index = 0
   while element_index < src[row_index].count do
     if src[row_index][element_index].is_a?(String) 
-      then a to total
-    total += src[row_index][element_index]
+      then total += src[row_index][element_index]
   
     element_index += 1
   end
