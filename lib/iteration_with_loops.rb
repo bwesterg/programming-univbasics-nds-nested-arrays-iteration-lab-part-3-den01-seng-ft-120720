@@ -13,4 +13,6 @@ while row_index < src.count do
   row_index += 1
 end
 total
+
+join_nested_strings
 end
